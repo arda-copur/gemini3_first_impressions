@@ -28,7 +28,7 @@ Sonuç: Saniyeler içinde hazır bir PDF sunumu.
 ### 2. VitalityAI (Sağlıklı Yaşam Koçu)
 Kullanıcı verilerine göre özel antrenman, beslenme planı hazırlayan bir uygulama. Kişiye özel olması ve antrenmanlar, diyet programları dışında motivasyon desteği de sağlaması gerçekten ilgimi çekti.
 
-*   **Neyi denedim?** Yapılandırılmış veri (JSON Schema) tutarlılığını ve çoklu dil desteğini (5 dil).
+*   **Neyi denedim?** Kişiye özel detaylı işlem mantığını, JSON tutarlılığını ve çoklu dil desteğini (5 dil).
 *   **Tech Stack:** React, Recharts, Lucide React.
 
 <p align="center">
@@ -43,9 +43,9 @@ Kullanıcı verilerine göre özel antrenman, beslenme planı hazırlayan bir uy
 </p>
 
 ### 3. Wardrobe (Dijital Stil Danışmanı)
-Eklenen kıyafet görsellerini, kişinin üzerinde göstermekle kalmayıp, aynı zamanda verilen bilgilerle kişinin gideceği yere, anlık hava durumuna, karşısındaki kişinin önem derecesine göre görsel kombin önerileri yapıyor.
+Eklenen kıyafet görsellerini, kişinin üzerinde göstermekle kalmayıp, aynı zamanda verilen bilgilerle kişinin gideceği yere, anlık hava durumuna, karşısındaki kişinin önem derecesine göre kombin öneri görselleri oluşturuyor.
 
-*   **Neyi denedim?** Multimodal (Görüntü işleme) yeteneklerini ve gerçek zamanlı veri (Search) kullanımını.
+*   **Neyi denedim?** Multimodal (Görüntü işleme) yeteneklerini ve gerçek zamanlı veri arama kullanımını.
 *   **Tech Stack:** React, Tailwind CSS (Fashion UI), Google Search Grounding.
 
 <p align="center">
