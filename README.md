@@ -13,7 +13,8 @@ Bu repo, yeni modellerin sınırlarını görmek için geliştirdiğim, kişisel
 "Acaba karmaşık promptları nasıl yönetiyor?" ve "Multimodal (görüntü+metin) yetenekleri ne durumda?" sorularına cevap ararken ortaya çıkan işler şunlar:
 
 ### 1. SlideGenius AI (Sunum Oluşturucu)
-Konu başlığını, detayları, temayı, sayfa sayısını giriyorsunuz, Gemini 3 Pro içerik kurgusunu ve görsel betimlemelerini hazırlıyor; Gemini 2.5 Flash ise görselleri üretiyor. Sonuç: Saniyeler içinde hazır bir PDF sunumu.
+Konu başlığını, detayları, temayı, sayfa sayısını giriyorsunuz, Gemini 3 Pro içerik kurgusunu ve görsel betimlemelerini hazırlıyor; Gemini 2.5 Flash ise görselleri üretiyor.
+Sonuç: Saniyeler içinde hazır bir PDF sunumu.
 
 *   **Neyi denedim?** İki farklı modelin "Orchestrator" mantığıyla birbirini beslemesini.
 *   **Tech Stack:** React, TypeScript, Google GenAI SDK, jsPDF, Tailwind CSS.
