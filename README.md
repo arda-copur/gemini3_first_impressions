@@ -19,8 +19,8 @@ Konu başlığını giriyorsunuz, Gemini 3 Pro içerik kurgusunu ve görsel beti
 *   **Tech Stack:** React, TypeScript, Google GenAI SDK, jsPDF, Tailwind CSS.
 
 <p align="center">
-  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/slide_genius_1.PNG?raw=true" width="48%">
-  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/slide_genius_3.PNG?raw=true" width="48%">
+  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/slide_genius_1.PNG?raw=true" width="68%">
+  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/slide_genius_3.PNG?raw=true" width="68%">
 </p>
 
 ### 2. VitalityAI (Sağlıklı Yaşam Koçu)
@@ -30,14 +30,14 @@ Kullanıcı verilerine göre özel antrenman, beslenme planı hazırlayan bir uy
 *   **Tech Stack:** React, Recharts, Lucide React.
 
 <p align="center">
-  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/vitality_1.PNG?raw=true" width="32%">
-  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/vitality_2.PNG?raw=true" width="32%">
-  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/vitality_3.PNG?raw=true" width="32%">
+  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/vitality_1.PNG?raw=true" width="62%">
+  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/vitality_2.PNG?raw=true" width="62%">
+  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/vitality_3.PNG?raw=true" width="62%">
 </p>
 <p align="center">
-  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/vitality_4.PNG?raw=true" width="32%">
-  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/vitality_5.PNG?raw=true" width="32%">
-  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/vitality_6.PNG?raw=true" width="32%">
+  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/vitality_4.PNG?raw=true" width="62%">
+  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/vitality_5.PNG?raw=true" width="62%">
+  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/vitality_6.PNG?raw=true" width="62%">
 </p>
 
 ### 3. Wardrobe (Dijital Stil Danışmanı)
@@ -47,8 +47,8 @@ Eklenen kıyafet görsellerini, kişinin üzerinde göstermekle kalmayıp, aynı
 *   **Tech Stack:** React, Tailwind CSS (Fashion UI), Google Search Grounding.
 
 <p align="center">
-  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/wardrobe_1.PNG?raw=true" width="48%">
-  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/wardrobe_2.PNG?raw=true" width="48%">
+  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/wardrobe_1.PNG?raw=true" width="68%">
+  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/wardrobe_2.PNG?raw=true" width="68%">
 </p>
 
 ---
