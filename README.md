@@ -19,8 +19,8 @@ Konu başlığını giriyorsunuz, Gemini 3 Pro içerik kurgusunu ve görsel beti
 *   **Tech Stack:** React, TypeScript, Google GenAI SDK, jsPDF, Tailwind CSS.
 
 <p align="center">
-  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/slide_genius_1.PNG?raw=true" width="68%">
-  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/slide_genius_3.PNG?raw=true" width="68%">
+  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/slide_genius_1.PNG?raw=true" width="100%">
+  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/slide_genius_3.PNG?raw=true" width="100%">
 </p>
 
 ### 2. VitalityAI (Sağlıklı Yaşam Koçu)
