@@ -7,24 +7,25 @@
 <a name="türkçe"></a>
 ## 🇹🇷 İlk İzlenimler ve Projeler
 
-Google'ın yeni **Gemini 3 Pro** modelini duyduğumda hemen **AI Studio**'yu açıp özellikle **Build Mode** üzerinde denemelere başladım. Açıkçası Cursor, Vercel, Claude, GPT, Gemini, Copilot gibi bir çok yapay zeka aracını denemiş olsam da bu kadarını beklemiyordum; mantık kurma yeteneği ve verdiği çıktının, girilen promta bağlı doğruluğu gerçekten seviye atlamış.
+Google'ın yeni **Gemini 3 Pro** modelini duyduğumda hemen **AI Studio**'yu açıp özellikle **Build Mode** üzerinde denemelere başladım. Açıkçası Cursor, Vercel, Claude, GPT, Deepseek, Copilot gibi bir çok ai tool denemiş olsam da bu kadarını beklemiyordum; mantık kurma yeteneği ve verdiği çıktının, girilen promta bağlı doğruluğu gerçekten seviye atlamış.
 
-Bu repo, yeni modellerin sınırlarını görmek için geliştirdiğim, kişisel 3 farklı projeyi ve kodlarını içeriyor. Mobil geliştirmede zaten yetkinliğim olduğu için daha çok web tarafında neler yapabileceklerini merak ettim ve bunun üzerine promptlar girdim.
+Bu repo, yeni modellerin sınırlarını görmek için geliştirdiğim, kişisel 3 farklı projeyi ve kodlarını içeriyor. Mobil geliştirme tarafında zaten yetkinliğim olduğu için daha çok web projelerinde neler yapabileceğini merak ettim ve bunun üzerine promptlar girdim.
 "Acaba karmaşık promptları nasıl yönetiyor?" ve "Multimodal (görüntü+metin) yetenekleri ne durumda?" sorularına cevap ararken ortaya çıkan işler şunlar:
 
 ### 1. SlideGenius AI (Sunum Oluşturucu)
-Konu başlığını giriyorsunuz, Gemini 3 Pro içerik kurgusunu ve görsel betimlemelerini hazırlıyor; Gemini 2.5 Flash ise görselleri üretiyor. Sonuç: Saniyeler içinde hazır bir PDF sunumu.
+Konu başlığını, detayları, temayı, sayfa sayısını giriyorsunuz, Gemini 3 Pro içerik kurgusunu ve görsel betimlemelerini hazırlıyor; Gemini 2.5 Flash ise görselleri üretiyor. Sonuç: Saniyeler içinde hazır bir PDF sunumu.
 
 *   **Neyi denedim?** İki farklı modelin "Orchestrator" mantığıyla birbirini beslemesini.
 *   **Tech Stack:** React, TypeScript, Google GenAI SDK, jsPDF, Tailwind CSS.
 
 <p align="center">
   <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/slide_genius_1.PNG?raw=true" width="100%">
+  <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/slide_genius_2.PNG?raw=true" width="100%">
   <img src="https://github.com/arda-copur/gemini3_first_impressions/blob/main/screenshots/slide_genius_3.PNG?raw=true" width="100%">
 </p>
 
 ### 2. VitalityAI (Sağlıklı Yaşam Koçu)
-Kullanıcı verilerine göre özel antrenman, beslenme planı hazırlayan bir uygulama. Kişiye özel olması ve antrenmlar, diyet planları dışında motivasyon desteği de sağlaması gerçekten ilgimi çekti.
+Kullanıcı verilerine göre özel antrenman, beslenme planı hazırlayan bir uygulama. Kişiye özel olması ve antrenmanlar, diyet programları dışında motivasyon desteği de sağlaması gerçekten ilgimi çekti.
 
 *   **Neyi denedim?** Yapılandırılmış veri (JSON Schema) tutarlılığını ve çoklu dil desteğini (5 dil).
 *   **Tech Stack:** React, Recharts, Lucide React.
