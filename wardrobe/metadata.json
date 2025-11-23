@@ -1,0 +1,7 @@
+{
+  "name": "Wardrobe",
+  "description": "AI-powered virtual try-on and personal stylist application.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
