@@ -56,7 +56,7 @@ Eklenen kıyafet görsellerini, kişinin üzerinde göstermekle kalmayıp, aynı
 ---
 
 <a name="english"></a>
-## 🇺🇸 First Impressions & Projects
+## 🇬🇧 First Impressions & Projects
 
 When I heard about **Gemini 3 Pro**, I immediately jumped into **AI Studio's Build Mode** to mess around. Honestly, I was surprised by the results. The reasoning capabilities and JSON stability are a massive step up.
 
